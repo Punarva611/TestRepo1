@@ -4,6 +4,7 @@ public class Demo1 {
         System.out.println("TESTING Purpose");
         System.out.println("testing 2");
         System.out.println("Testing 3");
+        System.out.println("Today is 10th June 2025");
 
     }
 }
